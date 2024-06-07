@@ -1,0 +1,46 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    text-align: center;
+}
+
+.main-header{
+    text-align: center;
+    color: #1fab50;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+.ingredients{
+    font-weight: bold;
+    color: #01822f;
+
+}
+
+h2{
+     font-weight: bold;
+     color: #01822f;
+}
+
+.method{
+    font-weight: bold;
+    color: #015e22;
+}
+
+li{
+    font-style: italic;
+}
+
+.recipe-description{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #1fab50;
+    color: white;
+}
